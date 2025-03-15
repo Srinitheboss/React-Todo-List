@@ -7,6 +7,6 @@ return(
 );
 }
 Header.defaultProbs = {
-title: "todo-list"
+title: "Todo-list"
 }
 export default Header
