@@ -1,34 +1,3 @@
 {
-  "items": [
-    {
-      "id": "1",
-      "checked": true,
-      "item": "This is dummy entry"
-    },
-    {
-      "id": "2",
-      "checked": false,
-      "item": "This is dummy entry"
-    },
-    {
-      "id": "3",
-      "checked": false,
-      "item": "This is dummy entry"
-    },
-    {
-      "id": "4",
-      "checked": false,
-      "item": "What is this"
-    },
-    {
-      "id": "5",
-      "checked": true,
-      "item": "What is that"
-    },
-    {
-      "id": "7",
-      "checked": false,
-      "item": "What"
-    }
-  ]
+  "items": []
 }
